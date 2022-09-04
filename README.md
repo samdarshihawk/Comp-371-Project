@@ -120,5 +120,4 @@ Click on the **lab03.exe** from the File Explorer.
 - http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/
 - https://learnopengl.com/Lighting/Basic-Lighting-
 - https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping
-- https://github.com/ClaudiaLapalme/WoodlandWanderer/tree/master/Assets/Model
 - https://learnopengl.com/height-map
