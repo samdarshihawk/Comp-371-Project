@@ -2,6 +2,7 @@
 
 Comp-371 Computer graphics project, where we demonstrate a prodedural generated world with custom perlin-noise height maps and various other assets like houses, trees, textures, etc.
 
+# Video: https://drive.google.com/file/d/16PVhVtobKSoXgbnu8zGYGQEr68gJ-BOd/view?usp=sharing
 
 ## Team Members
 - Shiraz Siwadjian - 40136555
